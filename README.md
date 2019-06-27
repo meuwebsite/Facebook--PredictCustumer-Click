@@ -16,13 +16,22 @@ Inputs:
 
 Outputs:
 
-Click 
-* 1: customer clicked on Ad 
-* 0: Customer did not click on the Ad)
 
 # Goals
 
+* Split the data in Train and Test
+* Train and Test the model in the data set
+* Visualize
+* Predict Click on the ad
+
+
 # How to run 
+
+Open Google Colab https://colab.research.google.com/
+* File
+* Upload Notebook
+* Run the Cells
+
 
 # Proccess
 
